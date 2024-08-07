@@ -1,0 +1,1 @@
+Scroll Animation Effect is Developed by using HTML, CSS and JavaScript
